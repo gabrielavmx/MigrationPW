@@ -22,7 +22,7 @@
                     <a class="font-bold" href="{{ url('/quemsomos') }}">Quem Somos</a>
                     </li>
                     <li>
-                    <a class="font-bold" href="{{ url('/contato') }}">Contato</a>
+                    <a class="font-bold" href="{{ url('/contato') }}">Produtos</a>
                     </li>
                 </ul>
                 <div class="absolute top[0.7rem] right-4 text-2xl cursor-pointer md:hidden" id="nav-close">
